@@ -3,3 +3,5 @@ protobuf==3.6.1
 pandas==0.24.2
 xlrd==1.1.0
 carball
+notebook
+jupyter
